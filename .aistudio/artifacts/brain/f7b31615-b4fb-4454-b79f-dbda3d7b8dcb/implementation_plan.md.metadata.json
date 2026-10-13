@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for PrestoWeb P0 Critical Fixes and Foundational P1 Reliability Architecture, covering Web Worker parsing, encoding detection, FIEBDC # preservation, exact parent-child measurement mapping, orphan detection & import modal report, non-destructive concept merging, IndexedDB autosave/recovery, cycle prevention, subtree remapping on clone/paste, incremental parser, and composite item classification.",
+  "updatedAt": "2026-10-13T10:57:01.819691965Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

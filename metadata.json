@@ -1,0 +1,6 @@
+{
+  "name": "PrestoWeb - Editor de Presupuestos BC3 & Excel",
+  "description": "Visor y editor profesional de mediciones y presupuestos de construcción FIEBDC-3 (BC3) y Excel. Gestión jerárquica de capítulos, partidas y líneas de detalle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
